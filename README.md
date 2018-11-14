@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 10
 
-**Author(s):** Conner Carnahan, Nataniel Alpay
+**Author(s):** Conner Carnahan, Natanael Alpay
 
 ## Specification
 
@@ -57,7 +57,7 @@ In practice, the 4th-order Runge-Kutta method is the most popular method for sol
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+This section was interesting because we was how different approximation methods works, and made it very interesting for next week to start program them.
 
 nnnnnah
 
@@ -70,4 +70,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-Conner Carnahan, Nataniel Alpay
+Conner Carnahan, Natanel Alpay
